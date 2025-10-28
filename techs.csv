@@ -1,0 +1,27 @@
+| Ticket_ID | Customer_Name  | Issue_Type            | Severity | Status      | Assigned_Engineer | Resolution_Time (hrs) | Created_Date | Resolved_Date |
+| --------- | -------------- | --------------------- | -------- | ----------- | ----------------- | --------------------- | ------------ | ------------- |
+| TKT001    | Ravi Kumar     | Login Failure         | High     | Resolved    | Praveen K         | 4                     | 2025-10-12   | 2025-10-12    |
+| TKT002    | Sneha Reddy    | Slow Performance      | Medium   | Resolved    | Lavanya G         | 8                     | 2025-10-10   | 2025-10-11    |
+| TKT003    | Arjun Mehta    | Data Not Loading      | High     | In Progress | Rakesh B          | —                     | 2025-10-14   | —             |
+| TKT004    | Kavya Sharma   | Application Crash     | Critical | Escalated   | Manoj S           | —                     | 2025-10-13   | —             |
+| TKT005    | Praveen Kumar  | Password Reset        | Low      | Resolved    | Nisha J           | 2                     | 2025-10-09   | 2025-10-09    |
+| TKT006    | Meena Pillai   | Email Sync Issue      | Medium   | Resolved    | Harsha V          | 6                     | 2025-10-07   | 2025-10-07    |
+| TKT007    | Rohit Das      | Network Timeout       | High     | Resolved    | Ritu P            | 5                     | 2025-10-08   | 2025-10-08    |
+| TKT008    | Aditya Rao     | Access Denied         | Medium   | Resolved    | Tarun R           | 3                     | 2025-10-11   | 2025-10-11    |
+| TKT009    | Divya Nair     | File Upload Error     | Low      | Resolved    | Sneha R           | 1                     | 2025-10-06   | 2025-10-06    |
+| TKT010    | Manoj Singh    | Dashboard Missing     | High     | Resolved    | Praveen K         | 7                     | 2025-10-10   | 2025-10-10    |
+| TKT011    | Ritu Patel     | Server Downtime       | Critical | Escalated   | Rakesh B          | —                     | 2025-10-12   | —             |
+| TKT012    | Harsha Vardhan | Printer Connectivity  | Low      | Resolved    | Lavanya G         | 3                     | 2025-10-08   | 2025-10-08    |
+| TKT013    | Neha Joshi     | Payment Failure       | High     | Resolved    | Deepa R           | 9                     | 2025-10-09   | 2025-10-09    |
+| TKT014    | Akash Sharma   | Email Bounce Back     | Medium   | Resolved    | Nisha J           | 4                     | 2025-10-10   | 2025-10-10    |
+| TKT015    | Shalini Gupta  | License Expired       | Low      | Resolved    | Harsha V          | 2                     | 2025-10-07   | 2025-10-07    |
+| TKT016    | Rakesh Babu    | Page Not Found        | Medium   | Resolved    | Ritu P            | 5                     | 2025-10-09   | 2025-10-09    |
+| TKT017    | Nisha Jain     | Password Policy Issue | Low      | Resolved    | Tarun R           | 2                     | 2025-10-05   | 2025-10-05    |
+| TKT018    | Kiran Kumar    | VPN Not Working       | High     | Resolved    | Praveen K         | 6                     | 2025-10-11   | 2025-10-11    |
+| TKT019    | Deepa Raj      | Data Sync Delay       | Medium   | In Progress | Lavanya G         | —                     | 2025-10-13   | —             |
+| TKT020    | Ajay Thomas    | UI Alignment Issue    | Low      | Resolved    | Sneha R           | 2                     | 2025-10-06   | 2025-10-06    |
+| TKT021    | Pallavi Iyer   | Unauthorized Access   | Critical | Escalated   | Rakesh B          | —                     | 2025-10-15   | —             |
+| TKT022    | Tarun Reddy    | Report Export Error   | Medium   | Resolved    | Nisha J           | 4                     | 2025-10-10   | 2025-10-10    |
+| TKT023    | Pooja Verma    | App Freeze            | High     | Resolved    | Harsha V          | 5                     | 2025-10-09   | 2025-10-09    |
+| TKT024    | Suresh Naik    | Email Configuration   | Low      | Resolved    | Praveen K         | 3                     | 2025-10-07   | 2025-10-07    |
+| TKT025    | Lavanya G      | API Timeout           | High     | Resolved    | Deepa R           | 8                     | 2025-10-12   | 2025-10-12    |
