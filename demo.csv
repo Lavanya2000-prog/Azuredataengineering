@@ -1,0 +1,27 @@
+| Employee_ID | Employee_Name  | City       | Department | Designation            | Salary (₹) | Experience_Years | Joining_Date |
+| ----------- | -------------- | ---------- | ---------- | ---------------------- | ---------- | ---------------- | ------------ |
+| E001        | Ravi Kumar     | Hyderabad  | IT         | Software Engineer      | 6,20,000   | 3                | 2022-03-15   |
+| E002        | Sneha Reddy    | Chennai    | HR         | HR Executive           | 4,50,000   | 2                | 2023-01-10   |
+| E003        | Arjun Mehta    | Bengaluru  | IT         | DevOps Engineer        | 8,40,000   | 5                | 2020-08-12   |
+| E004        | Kavya Sharma   | Pune       | Finance    | Accountant             | 5,30,000   | 4                | 2021-05-09   |
+| E005        | Praveen Kumar  | Hyderabad  | Support    | Technical Support Engg | 6,00,000   | 3                | 2022-06-18   |
+| E006        | Lavanya G      | Vizag      | IT         | Data Analyst           | 7,10,000   | 4                | 2021-10-01   |
+| E007        | Rohit Das      | Mumbai     | Marketing  | Marketing Executive    | 4,80,000   | 2                | 2023-02-20   |
+| E008        | Meena Pillai   | Kochi      | HR         | Talent Acquisition     | 5,10,000   | 3                | 2022-07-13   |
+| E009        | Aditya Rao     | Delhi      | IT         | Cloud Engineer         | 9,20,000   | 6                | 2019-04-30   |
+| E010        | Divya Nair     | Bengaluru  | Admin      | Office Admin           | 3,90,000   | 1                | 2024-03-05   |
+| E011        | Manoj Singh    | Hyderabad  | Support    | Sr. Tech Support       | 7,80,000   | 5                | 2020-11-25   |
+| E012        | Ritu Patel     | Ahmedabad  | Finance    | Sr. Accountant         | 6,70,000   | 5                | 2019-09-10   |
+| E013        | Harsha Vardhan | Chennai    | IT         | Backend Developer      | 8,10,000   | 5                | 2020-02-28   |
+| E014        | Neha Joshi     | Pune       | Marketing  | Content Strategist     | 6,40,000   | 3                | 2021-07-15   |
+| E015        | Akash Sharma   | Delhi      | IT         | Full Stack Dev         | 9,50,000   | 6                | 2018-12-19   |
+| E016        | Shalini Gupta  | Jaipur     | HR         | HR Manager             | 8,20,000   | 7                | 2017-04-23   |
+| E017        | Rakesh Babu    | Hyderabad  | IT         | Data Engineer          | 10,10,000  | 7                | 2017-06-12   |
+| E018        | Nisha Jain     | Bengaluru  | Finance    | Finance Analyst        | 6,90,000   | 4                | 2021-02-17   |
+| E019        | Kiran Kumar    | Kochi      | Support    | Technical Analyst      | 5,80,000   | 3                | 2022-05-09   |
+| E020        | Deepa Raj      | Mumbai     | Marketing  | Digital Marketer       | 7,30,000   | 5                | 2020-09-01   |
+| E021        | Ajay Thomas    | Trivandrum | IT         | Network Engineer       | 7,60,000   | 5                | 2020-03-27   |
+| E022        | Pallavi Iyer   | Hyderabad  | HR         | Payroll Officer        | 5,00,000   | 3                | 2022-01-30   |
+| E023        | Tarun Reddy    | Chennai    | IT         | QA Engineer            | 6,80,000   | 4                | 2021-06-15   |
+| E024        | Pooja Verma    | Delhi      | Marketing  | Brand Manager          | 9,00,000   | 6                | 2019-08-22   |
+| E025        | Suresh Naik    | Vizag      | Support    | Technical Lead         | 8,70,000   | 7                | 2017-11-14   |
