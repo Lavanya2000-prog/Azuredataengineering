@@ -1,10 +1,6 @@
-[
-  {
-     "Sourcefile" = "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/refs/heads/main/demo.csv"
-     "Sinkfile"   = "demo.csv"
-  }
-  {
-     "Sourcefile" = "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/refs/heads/main/techs.csv"
-     "Sinkfile"   = "techs.csv"
-  }
-]
+{
+  "Repository": "https://github.com/Lavanya2000-prog/Azuredataengineering",
+  "Raw_Base_URL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+  "Example_JSON_File": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/data.json",
+  "Example_CSV_File": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/techs.csv"
+}
