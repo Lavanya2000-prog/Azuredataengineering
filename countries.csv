@@ -1,0 +1,12 @@
+| CountryID | CountryName   | CapitalCity     | Continent     | Population (Millions) | Area (sq km) | Currency                | GDP (Billion USD) |
+| --------- | ------------- | --------------- | ------------- | --------------------- | ------------ | ----------------------- | ----------------- |
+| 1         | India         | New Delhi       | Asia          | 1428                  | 3,287,263    | Indian Rupee (INR)      | 3570              |
+| 2         | United States | Washington D.C. | North America | 340                   | 9,833,517    | US Dollar (USD)         | 26900             |
+| 3         | China         | Beijing         | Asia          | 1412                  | 9,596,961    | Yuan (CNY)              | 17700             |
+| 4         | Japan         | Tokyo           | Asia          | 125                   | 377,975      | Yen (JPY)               | 4400              |
+| 5         | Germany       | Berlin          | Europe        | 83                    | 357,022      | Euro (EUR)              | 4200              |
+| 6         | Brazil        | Brasília        | South America | 215                   | 8,515,767    | Real (BRL)              | 2600              |
+| 7         | Australia     | Canberra        | Oceania       | 26                    | 7,692,024    | Australian Dollar (AUD) | 1700              |
+| 8         | Canada        | Ottawa          | North America | 39                    | 9,984,670    | Canadian Dollar (CAD)   | 2400              |
+| 9         | France        | Paris           | Europe        | 65                    | 551,695      | Euro (EUR)              | 3100              |
+| 10        | South Africa  | Pretoria        | Africa        | 60                    | 1,221,037    | Rand (ZAR)              | 400               |
