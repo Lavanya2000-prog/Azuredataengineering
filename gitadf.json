@@ -1,0 +1,10 @@
+[
+  {
+     "Sourcefile" = "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/refs/heads/main/demo.csv"
+     "Sinkfile"   = "demo.csv"
+  }
+  {
+     "Sourcefile" = "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/refs/heads/main/techs.csv"
+     "Sinkfile"   = "techs.csv"
+  }
+]
