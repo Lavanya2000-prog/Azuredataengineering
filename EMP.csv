@@ -1,0 +1,7 @@
+| EmpID | EmpName | Dept    | Salary | Location  |
+| ----- | ------- | ------- | ------ | --------- |
+| 101   | Ramesh  | HR      | 45000  | Hyderabad |
+| 102   | Suresh  | IT      | 60000  | Chennai   |
+| 103   | Priya   | Finance | 55000  | Bangalore |
+| 104   | Kavya   | IT      | 62000  | Pune      |
+| 105   | Manoj   | Admin   | 40000  | Delhi     |
