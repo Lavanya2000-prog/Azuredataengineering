@@ -1,0 +1,26 @@
+[
+  {
+    "Repository": "https://github.com/Lavanya2000-prog/Azuredataengineering",
+    "Raw_Base_URL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+    "Example_CSV_File": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/techs.csv",
+    "sourceBaseURL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+    "sourceRelativeURL": "techs.csv"
+		"sinkFileName": "techs_output.csv"
+  },
+  {
+    "Repository": "https://github.com/Lavanya2000-prog/Azuredataengineering",
+    "Raw_Base_URL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+    "Example_csv_File": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/data.csv",
+    "sourceBaseURL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+    "sourceRelativeURL": "data.csv"
+		"sinkFileName": "techs_output.csv"
+  },
+  {
+    "Repository": "https://github.com/Lavanya2000-prog/Azuredataengineering",
+    "Raw_Base_URL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+    "Example_CSV_File": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/refs/heads/main/countries.csv",
+    "sourceBaseURL": "https://raw.githubusercontent.com/Lavanya2000-prog/Azuredataengineering/main/",
+    "sourceRelativeURL": "countries.csv"
+		"sinkFileName": "techs_output.csv"
+  }
+]
